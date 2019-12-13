@@ -8,6 +8,7 @@ On Emily's site: [View in browser](https://winerock.github.io/email_newsletter/)
 
 On Kristi's site: [View in browser](https://kristidugan.github.io/emailnewsletter/)
 
+
 Other Useful Links
 
 Moms Can Code [View in browser](https://www.momscan.co/momscancode/)
